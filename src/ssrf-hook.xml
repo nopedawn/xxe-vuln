@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE test [ <!ENTITY xxe SYSTEM "/"> ]>
-<root>
-<item1>&xxe;</item1>
-<item2>&xxe;</item2>
-</root>
